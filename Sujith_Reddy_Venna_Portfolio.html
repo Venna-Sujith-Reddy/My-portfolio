@@ -239,6 +239,8 @@ section{padding:88px 0}
 .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 @media(max-width:720px){.grid2{grid-template-columns:1fr}}
 .edu{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:26px}
+.edu-logo{display:flex;align-items:center;height:48px;margin-bottom:16px}
+.edu-logo img{height:44px;width:auto;max-width:100%;object-fit:contain}
 .edu h3{font-family:var(--display);font-size:1.1rem;font-weight:600;letter-spacing:-.02em}
 .edu .school{color:var(--ocean);font-size:.94rem;margin-top:4px;font-weight:600}
 .edu .meta{font-family:var(--mono);font-size:.78rem;color:var(--muted);margin-top:10px}
@@ -783,12 +785,18 @@ footer{text-align:center;padding:28px 0 40px;color:var(--muted);font-size:.82rem
     </div>
     <div class="grid2">
       <div class="edu rv">
+        <div class="edu-logo">
+          <img src="assets/gmu-logo.svg" alt="George Mason University" width="240" height="72"/>
+        </div>
         <h3>M.S. Computer Science</h3>
         <div class="school">George Mason University</div>
         <p class="meta">Data Science / Machine Learning · May 2026 · GPA 3.85 / 4.0</p>
       </div>
       <div class="edu rv">
-        <h3>B.S. Computer Science &amp; Machine Learning</h3>
+        <div class="edu-logo">
+          <img src="assets/jntuh-logo.png" alt="JNTUH College of Engineering Hyderabad" width="215" height="65"/>
+        </div>
+        <h3>B.Tech Computer Science &amp; Machine Learning</h3>
         <div class="school">JNTUH College of Engineering Hyderabad</div>
         <p class="meta">CGPA 3.6 / 4.0</p>
       </div>

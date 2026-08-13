@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72" role="img" aria-label="JNTUH College of Engineering Hyderabad">
+  <rect width="240" height="72" rx="8" fill="#0B3D91"/>
+  <circle cx="36" cy="36" r="22" fill="none" stroke="#F2C94C" stroke-width="3"/>
+  <text x="36" y="40" text-anchor="middle" fill="#F2C94C" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-weight="700">JNTUH</text>
+  <text x="68" y="30" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="700">JNTUH College of</text>
+  <text x="68" y="50" fill="#F2C94C" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="700">Engineering Hyderabad</text>
+</svg>

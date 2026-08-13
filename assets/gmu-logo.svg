@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72" role="img" aria-label="George Mason University">
+  <rect width="240" height="72" rx="8" fill="#006633"/>
+  <rect x="8" y="8" width="6" height="56" fill="#FFCC33"/>
+  <text x="28" y="32" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700">GEORGE MASON</text>
+  <text x="28" y="54" fill="#FFCC33" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="1.5">UNIVERSITY</text>
+</svg>
